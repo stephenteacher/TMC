@@ -1,0 +1,68 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata59">image/svg+xml</metadata>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="302" width="402" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="CompositeShape_17"/>
+  <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" d="m250.451874,88.667137l0.000244,130.143486l-112.728165,0l0,-130.143066l112.727921,-0.000053" id="Polygon_0"/>
+  <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" d="m112.534302,240.219528l25.189651,-21.409256l-28.342896,-0.000092c-2.861473,7.407013 -1.42421,15.510757 3.153244,21.409348" id="Polygon_2"/>
+  <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" d="m278.794952,218.81102c-2.619781,-2.539001 7.006104,10.544022 -2.712952,12.574631l-25.629883,-12.575027l28.342865,0.000259" id="Polygon_3"/>
+  <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m102.632637,262.027527l-15.287964,-0.000214l9.51786,-8.088531l5.770103,8.088745" id="Polygon_30"/>
+  <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m96.862534,253.538788l-9.51786,8.088531l4.445061,-15.200302l5.0728,7.111771" id="Polygon_28"/>
+  <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m297.92984,93.88755l9.208099,-5.220863l-9.354828,0.000076l0.146729,5.220787" id="Polygon_26"/>
+  <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m112.584549,34.028061l-0.560417,10.884789l4.416519,-2.503807l-3.856102,-8.380981" id="Polygon_10"/>
+  <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m120.606461,40.047234l-8.021912,-6.019173l3.856102,8.380981l4.16581,-2.361809" id="Polygon_9"/>
+  <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m297.783112,88.666763l9.354828,-0.000076l-9.485168,-4.653717l0.130341,4.653793" id="Polygon_25"/>
+  <line fill="none" stroke="#008cff" stroke-linecap="round" y1="88.667184" x2="250.451859" y2="88.667298" x1="137.723959" id="StraightLine_0"/>
+  <line fill="none" stroke="#008cff" stroke-linecap="round" y1="88.667136" x2="250.452108" y2="218.810617" x1="250.451874" id="StraightLine_1"/>
+  <line fill="none" stroke="#008cff" stroke-linecap="round" y1="218.810617" x2="137.723951" y2="218.810243" x1="250.452108" id="StraightLine_2"/>
+  <line fill="none" stroke="#008cff" stroke-linecap="round" y1="218.810243" x2="137.723959" y2="88.667184" x1="137.723951" id="StraightLine_3"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="88.667184" x2="81.037982" y2="88.667037" x1="137.723959" id="StraightLine_4"/>
+  <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m109.381058,218.810181c-2.861473,7.407013 -1.42421,15.510727 3.153244,21.409348" id="CircleArc_1"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="34.028057" x2="112.024141" y2="44.912852" x1="112.584549" id="StraightLine_26"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="88.667184" x2="112.584549" y2="34.028057" x1="137.723959" id="StraightLine_5"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="34.028057" x2="120.606454" y2="40.047236" x1="112.584549" id="StraightLine_27"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="88.667136" x2="307.137939" y2="88.666695" x1="250.451874" id="StraightLine_54"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="44.912852" x2="120.606454" y2="40.047236" x1="112.024141" id="StraightLine_50"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="261.627326" x2="91.789729" y2="246.42702" x1="87.344675" id="StraightLine_87"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="218.810617" x2="301.712122" y2="243.96011" x1="250.452108" id="StraightLine_7"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="88.666695" x2="297.929832" y2="93.887553" x1="307.137939" id="StraightLine_81"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="261.627326" x2="102.632638" y2="261.627513" x1="87.344675" id="StraightLine_90"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="88.666695" x2="297.652784" y2="84.012972" x1="307.137939" id="StraightLine_82"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="246.42702" x2="102.632638" y2="261.627513" x1="91.789729" id="StraightLine_91"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="218.810243" x2="81.037923" y2="218.810884" x1="137.723951" id="StraightLine_8"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="84.012972" x2="297.929832" y2="93.887553" x1="297.652784" id="StraightLine_83"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="218.810243" x2="87.344675" y2="261.627326" x1="137.723951" id="StraightLine_10"/>
+  <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m124.874077,62.415092c-9.763794,5.160767 -15.41851,15.41658 -15.492966,26.251976" id="CircleArc_0"/>
+  <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="m278.794952,218.81102c-2.619781,-2.539001 7.006104,10.544022 -2.712952,12.574631" id="ConsecLine_10"/>
+  <line fill="none" stroke="#000000" stroke-linecap="round" y1="218.810617" x2="307.137625" y2="218.811151" x1="250.452108" id="StraightLine_6"/>
+  <text transform="matrix(0.215044, 0, 0, 0.215044, 64.9303, -60.3842)" fill="#000000" stroke="#000000" font-family="Default" font-size="72px" x="-100.259632" y="233.666692" id="TextShape_0">
+   <tspan text-anchor="middle" x="187.740368" y="424.479172" id="TextShape_0_0">16N</tspan>
+  </text>
+  <text transform="matrix(0.215044, 0, 0, 0.215044, 64.9303, -60.3842)" fill="#000000" stroke="#000000" font-family="Default" font-size="72px" x="-113.655615" y="442.135071" id="TextShape_1">
+   <tspan text-anchor="middle" x="174.344388" y="632.947567" id="TextShape_1_0">60°</tspan>
+  </text>
+  <text transform="matrix(0.215044, 0, 0, 0.215044, 64.9303, -60.3842)" fill="#000000" stroke="#000000" font-family="Default" font-size="72px" x="564.276639" y="410.765673" id="TextShape_2">
+   <tspan text-anchor="middle" x="975.276579" y="677.578188" id="TextShape_2_0">11N</tspan>
+  </text>
+  <text style="cursor: move;" fill="#000000" stroke="#000000" font-family="Default" font-size="71.999329px" x="-269.819846" transform="matrix(0.215044, -2.6234e-05, 2.6234e-05, 0.215044, 64.9303, -60.3842)" y="1117.98635" id="TextShape_3">
+   <tspan text-anchor="middle" x="141.180137" y="1385.79921" id="TextShape_3_0">45°</tspan>
+  </text>
+  <g id="CompositeShape_21">
+   <path fill="#000000" stroke-linecap="round" stroke-linejoin="round" d="m303.099335,241.061661l4.738098,6.291092l-8.245087,0.37915l3.506989,-6.670242" id="Polygon_61"/>
+   <line fill="none" stroke="#000000" stroke-linecap="round" y1="247.352753" x2="299.592357" y2="247.731877" x1="307.837431" id="StraightLine_138"/>
+   <line fill="none" stroke="#000000" stroke-linecap="round" y1="247.352753" x2="303.099326" y2="241.061648" x1="307.837406" id="StraightLine_140"/>
+   <line fill="none" stroke="#000000" stroke-linecap="round" y1="247.731898" x2="303.099339" y2="241.061648" x1="299.592357" id="StraightLine_141"/>
+  </g>
+  <text transform="matrix(0.215044, 0, 0, 0.215044, 64.9303, -60.3842)" fill="#000000" stroke="#000000" font-family="Default" font-size="72px" x="663.246048" y="1095.013842" id="TextShape_7">
+   <tspan text-anchor="middle" x="951.246048" y="1285.826282" id="TextShape_7_0">9N</tspan>
+  </text>
+  <text transform="matrix(0.215044, 0, 0, 0.215044, 64.9303, -60.3842)" fill="#000000" stroke="#000000" font-family="Default" font-size="72px" x="781.044629" y="1176.377949" id="TextShape_6">
+   <tspan text-anchor="middle" x="1069.044629" y="1367.190449" id="TextShape_6_0">30°</tspan>
+  </text>
+ </g>
+</svg>

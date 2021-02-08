@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="400"
+   version="1.1"
+   id="svg929"
+   sodipodi:docname="Double_butt_Joint.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata935">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs933" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview931"
+     showgrid="false"
+     inkscape:zoom="1.4053747"
+     inkscape:cx="254.19732"
+     inkscape:cy="197.05833"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg929" />
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g
+     id="g890">
+    <title
+       id="title885">background</title>
+    <rect
+       x="-1"
+       y="-1"
+       width="502"
+       height="402"
+       id="canvas_background"
+       fill="#fff" />
+    <g
+       id="canvasGrid"
+       display="none">
+      <rect
+         id="svg_4"
+         width="100%"
+         height="100%"
+         x="0"
+         y="0"
+         stroke-width="0"
+         fill="url(#gridpattern)" />
+    </g>
+  </g>
+  <g
+     stroke="null"
+     id="svg_50">
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       cx="123.45954"
+       cy="47.966633"
+       id="svg_9"
+       r="19.695595" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       cx="181.38776"
+       cy="47.966633"
+       id="svg_10"
+       r="19.695595" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       cx="321.96024"
+       cy="47.966633"
+       id="svg_16"
+       r="19.695595" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       cx="378.34369"
+       cy="47.966633"
+       id="svg_8"
+       r="19.695595" />
+    <rect
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       x="87.930229"
+       y="47.966633"
+       width="325.17041"
+       height="32.4398"
+       id="svg_1" />
+    <rect
+       stroke="#000000"
+       fill="#e5e5e5"
+       stroke-width="1.5"
+       x="74.42305"
+       y="80.406433"
+       width="352.97595"
+       height="38.618813"
+       id="svg_2" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="378.34369"
+       cy="151.46504"
+       id="svg_22"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="321.96024"
+       cy="151.46504"
+       id="svg_25"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="184.47726"
+       cy="151.46504"
+       id="svg_24"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="123.45954"
+       cy="151.46504"
+       id="svg_23"
+       r="20.081781" />
+    <rect
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       x="87.930229"
+       y="119.02525"
+       width="325.17041"
+       height="32.4398"
+       id="svg_3" />
+    <line
+       stroke="#000000"
+       fill="none"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       x1="369.25354"
+       y1="47.966633"
+       x2="369.25354"
+       y2="151.46504"
+       id="svg_26"
+       stroke-linejoin="null"
+       stroke-linecap="null" />
+    <line
+       stroke="#000000"
+       fill="none"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       x1="113.80483"
+       y1="47.966633"
+       x2="113.80483"
+       y2="151.46504"
+       id="svg_7"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       stroke-dasharray="2, 2" />
+    <line
+       stroke="#000000"
+       fill="none"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       x1="132.72806"
+       y1="47.966633"
+       x2="132.72806"
+       y2="151.46504"
+       id="svg_11"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       stroke-dasharray="2, 2" />
+    <line
+       stroke="#000000"
+       fill="none"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       x1="312.69171"
+       y1="47.966633"
+       x2="312.69171"
+       y2="151.46504"
+       id="svg_12"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       stroke-dasharray="2, 2" />
+    <line
+       stroke="#000000"
+       fill="none"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       x1="330.90802"
+       y1="47.966633"
+       x2="330.90802"
+       y2="151.46504"
+       id="svg_13"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       stroke-dasharray="2, 2" />
+    <rect
+       stroke="#000000"
+       id="svg_14"
+       height="103.49841"
+       width="18.8384"
+       y="47.966633"
+       x="369.0752"
+       stroke-opacity="null"
+       stroke-width="1.5"
+       fill="#ffffff" />
+    <rect
+       stroke="#000000"
+       id="svg_15"
+       height="103.49841"
+       width="18.8384"
+       y="47.966633"
+       x="172.11925"
+       stroke-opacity="null"
+       stroke-width="1.5"
+       fill="#ffffff" />
+    <path
+       stroke="#000000"
+       id="svg_17"
+       d="M 54.789543,106.64678 39.942926,99.111428 54.789543,91.576071 v 3.767679 h 14.918056 v 7.53536 H 54.789543 Z"
+       fill-opacity="null"
+       stroke-opacity="null"
+       stroke-width="1.5"
+       fill="none" />
+    <path
+       stroke="#000000"
+       id="svg_19"
+       d="m 446.51165,93.460392 14.84662,7.535358 -14.84662,7.53536 v -3.76769 h -14.91806 v -7.535353 h 14.91806 z"
+       fill-opacity="null"
+       stroke-opacity="null"
+       stroke-width="1.5"
+       fill="none" />
+    <rect
+       stroke="#000000"
+       id="svg_31"
+       height="154.47525"
+       width="352.97595"
+       y="197.68506"
+       x="74.04631"
+       stroke-opacity="null"
+       stroke-width="1.5"
+       fill="#e5e5e5" />
+    <rect
+       stroke="#000000"
+       id="svg_32"
+       height="154.47525"
+       width="325.17041"
+       y="197.33667"
+       x="87.949081"
+       stroke-opacity="null"
+       stroke-width="1.5"
+       fill="#ffffff" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="181.4066"
+       cy="322.78552"
+       id="svg_33"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="123.47839"
+       cy="305.46933"
+       id="svg_34"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="123.47839"
+       cy="243.67924"
+       id="svg_35"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="378.36255"
+       cy="243.67924"
+       id="svg_36"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="181.4066"
+       cy="274.57428"
+       id="svg_37"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="181.4066"
+       cy="226.86137"
+       id="svg_45"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="321.9791"
+       cy="322.46161"
+       id="svg_46"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="321.9791"
+       cy="274.57428"
+       id="svg_47"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="321.9791"
+       cy="226.68697"
+       id="svg_48"
+       r="20.081781" />
+    <circle
+       stroke="#000000"
+       fill="#ffffff"
+       stroke-width="1.5"
+       stroke-opacity="null"
+       fill-opacity="null"
+       cx="378.36255"
+       cy="306.09222"
+       id="svg_49"
+       r="20.081781" />
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.01443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 254.59119,81.006289 c 0,37.796891 0,37.796891 0,37.796891"
+     id="path970" />
+</svg>

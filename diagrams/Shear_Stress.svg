@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="200"
+   viewBox="0 0 399.99998 199.99999"
+   id="svg3344"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Shear Stress Def Diagram.svg">
+  <defs
+     id="defs3346">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="359.10921 : 185.35787 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="459.59899 : 22.218254 : 1"
+       inkscape:persp3d-origin="199.99999 : 66.666663 : 1"
+       id="perspective3449" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="166.64879"
+     inkscape:cy="120.80873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="248"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36225)">
+    <g
+       id="g4369"
+       transform="matrix(1.5925986,0,0,1.2168472,-18.604659,-187.97705)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4317"
+         d="M 162.00524,932.65917 C 56.124262,904.28843 56.124262,904.28843 56.124262,904.28843 l 0,76.85807 106.321478,28.4888 z"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4349"
+         d="m 56.063466,903.36475 68.508404,-18.35677 90.28165,24.19089 -53.24638,23.34195"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4351"
+         d="m 214.28571,909.14796 0,71.78572 -51.21107,29.56672"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4353"
+         d="M 55.714286,922.00511 C 161.65097,950.39076 162.7335,950.68082 162.7335,950.68082 l 51.90936,-23.31857 -88.68578,-23.76328 z"
+         style="fill:#f5f441;fill-opacity:0.47486034;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:11.99999908, 11.99999908;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4355"
+         d="m 31.382104,876.89144 c 0,0 0,0 60.40361,16.1851 -8.953211,-0.0659 -8.953211,-0.0659 -8.953211,-0.0659"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4357"
+         d="m 91.418805,892.75815 c -3.724937,-3.72494 -3.724937,-3.72494 -3.724937,-3.72494"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         inkscape:transform-center-y="-9.3206165"
+         inkscape:transform-center-x="-11.878917"
+         transform="matrix(0.96891973,0.24737532,-0.24737532,0.96891973,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4359"
+         y="840.58508"
+         x="254.46855"
+         style="font-style:normal;font-weight:normal;font-size:14.99999905px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="840.58508"
+           x="254.46855"
+           id="tspan4361"
+           sodipodi:role="line">Force</tspan></text>
+      <text
+         transform="matrix(1.4128199,0.41008727,-0.51914369,0.55711685,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4365"
+         y="1268.7537"
+         x="536.17896"
+         style="font-style:normal;font-weight:normal;font-size:15.12090778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1268.7537"
+           x="536.17896"
+           id="tspan4367"
+           sodipodi:role="line">Area</tspan></text>
+    </g>
+  </g>
+</svg>

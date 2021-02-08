@@ -1,0 +1,27 @@
+<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="152" width="402" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_11" transform="matrix(0.906308, 0.422618, -0.422618, 0.906308, 55.1514, -163.732)">
+   <text id="svg_12" font-style="normal" font-weight="normal" font-family="Arial" fill="#000000" font-size="40" y="60.51969" x="1073742000">Point Load</text>
+  </g>
+  <g id="svg_15">
+   <line id="svg_1" stroke="#000000" y2="91.159647" x2="366.662434" y1="91.159647" x1="19.039563"/>
+   <line id="svg_2" stroke="#000000" y2="122.761715" x2="66.442704" y1="122.761715" x1="34.84058"/>
+   <line id="svg_3" stroke="#000000" y2="122.761715" x2="34.84058" y1="91.159647" x1="50.641642"/>
+   <line id="svg_4" stroke="#000000" y2="122.761715" x2="66.442704" y1="91.159647" x1="50.641642"/>
+   <line id="svg_5" stroke="#000000" y2="122.761715" x2="350.861428" y1="122.761715" x1="319.259304"/>
+   <line id="svg_6" stroke="#000000" y2="122.761715" x2="319.259304" y1="91.159647" x1="335.060366"/>
+   <line id="svg_7" stroke="#000000" y2="122.761715" x2="350.861428" y1="91.159647" x1="335.060366"/>
+   <line id="svg_8" stroke="#000000" y2="91.159647" x2="177.04997" y1="27.955489" x1="177.04997"/>
+   <line id="svg_9" stroke="#000000" y2="91.159647" x2="177.04997" y1="75.358585" x1="161.248908"/>
+   <line id="svg_10" stroke="#000000" y2="91.159647" x2="177.04997" y1="75.358585" x1="192.850976"/>
+   <text transform="matrix(0.557425, 0, 0, 0.557425, 37.6363, 8.15446)" id="svg_13" font-style="normal" font-weight="normal" font-family="Arial" fill="#000000" font-size="20" y="44.522287" x="286.142154">Point Load</text>
+   <text transform="matrix(0.557425, 0, 0, 0.557425, 37.6363, 8.15446)" id="svg_14" font-style="normal" font-weight="normal" font-family="Arial" fill="#000000" font-size="20" y="44.522287" x="49.716954">Concentrated Load</text>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,115 @@
+<svg width="320.00000000000006" height="200" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata4020">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="none" stroke="#000000" y="40.973327" x="30" height="35" width="100" id="rect4025"/>
+  <path fill="none" stroke="#000000" d="m130,80.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4625"/>
+  <path fill="none" stroke="#000000" d="m40,95.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4627"/>
+  <path fill="none" stroke="#000000" d="m130,110.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4629"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4848" d="m125,75.973357c-90,15 -90,15 -90,15"/>
+  <path fill="none" stroke="#000000" stroke-width="0.657911px" id="path4850" d="m125.17104,85.802317c-60.50194,9.65825 -60.50194,9.65825 -60.50194,9.65825"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4852" d="m35,90.973357c90,15 90,15 90,15"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4854" d="m35,100.973357c90,15 90,15 90,15"/>
+  <path fill="none" stroke="#000000" d="m130,110.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4625-1"/>
+  <path fill="none" stroke="#000000" d="m40,125.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4627-3"/>
+  <path fill="none" stroke="#000000" d="m130,140.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4629-5"/>
+  <path fill="none" stroke="#000000" stroke-width="0.663748px" id="path4848-7" d="m94.26226,111.133827c-59.43039,10.00766 -59.43039,10.00766 -59.43039,10.00766"/>
+  <path fill="none" stroke="#000000" stroke-width="0.657911px" id="path4850-1" d="m125.17104,115.802317c-60.50194,9.65825 -60.50194,9.65825 -60.50194,9.65825"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4852-5" d="m35,120.973357c90,15 90,15 90,15"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4854-7" d="m35,130.973357c90,15 90,15 90,15"/>
+  <path fill="none" stroke="#000000" d="m130,140.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4629-55"/>
+  <path fill="none" stroke="#000000" d="m130,140.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4625-1-7"/>
+  <path fill="none" stroke="#000000" d="m40,155.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4627-3-9"/>
+  <path fill="none" stroke="#000000" d="m130,170.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4629-5-5"/>
+  <path fill="none" stroke="#000000" stroke-width="0.663748px" id="path4848-7-7" d="m94.26226,141.133827c-59.43039,10.00769 -59.43039,10.00769 -59.43039,10.00769"/>
+  <path fill="none" stroke="#000000" stroke-width="0.657911px" id="path4850-1-4" d="m125.17104,145.802317c-60.50194,9.6583 -60.50194,9.6583 -60.50194,9.6583"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4852-5-3" d="m35,150.973317c90,15.0001 90,15.0001 90,15.0001"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path4854-7-4" d="m35,160.973417c90,15 90,15 90,15"/>
+  <rect fill="none" stroke="#000000" y="176" x="15" height="20" width="135" id="rect5146"/>
+  <text font-size="40.999569px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" transform="matrix(1.0249892473220825,0,0,0.9756200313568114,1,-851.3621826171874) " id="text5148" y="945.950787" x="33.684544" xml:space="preserve">
+   <tspan y="945.950787" x="33.684544" id="tspan5150">Mass</tspan>
+  </text>
+  <path fill="none" stroke="#000000" d="m40,80.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4627-6"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path5177" d="m65,86c-30,0 -30,0 -30,0"/>
+  <path fill="none" stroke="#000000" d="m40,170.973328a5,5 0 1 1 -10,0a5,5 0 1 1 10,0z" id="path4627-2"/>
+  <path fill="none" stroke="#000000" stroke-width="1px" id="path5186" d="m35,166c35,0 35,0 35,0"/>
+  <text font-size="9.409719px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" transform="matrix(0.98939396,0.14525697,-0.14525697,0.98939396,0,0) " id="text5188" y="123.108925" x="79.939028" xml:space="preserve">
+   <tspan y="123.108925" x="79.939028" id="tspan5190">Spring</tspan>
+  </text>
+  <g id="g5250">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,41c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,131c5,-10 5,-10 5,-10" id="path5194"/>
+  </g>
+  <text font-size="13.300378px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" transform="matrix(1.1600077152252197,0,0,0.8620632290840148,1,-851.3621826171874) " id="text5196" y="1037.2823" x="135.843069" xml:space="preserve">
+   <tspan y="151.01048" x="1022.114969" id="tspan5198">Moving Down</tspan>
+  </text>
+  <rect fill="none" stroke="#000000" y="86.772587" x="200.95915" height="35" width="100" id="rect4025-7"/>
+  <g id="g5250-9" transform="matrix(1,0,0,0.37149884,105.66608,572.77442) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,-1399.333226c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,-1309.333226c5,-10 5,-10 5,-10" id="path5194-9"/>
+  </g>
+  <g id="g5250-9-3" transform="matrix(1,0,0,0.37149884,104.98224,642.06394) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,-1399.333226c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,-1309.333226c5,-10 5,-10 5,-10" id="path5194-9-9"/>
+  </g>
+  <g id="g5250-9-3-4" transform="matrix(1,0,0,-0.37149884,60.68384,1338.6019) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2"/>
+  </g>
+  <g id="g5250-9-3-4-4" transform="matrix(1,0,0,-0.37149884,60.683844,1338.6019) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2-4"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2-0"/>
+  </g>
+  <g id="g5250-9-3-4-1" transform="matrix(1,0,0,-0.37149884,60.683844,1338.6019) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2-3"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2-2"/>
+  </g>
+  <g id="g5250-9-3-4-48" transform="matrix(1,0,0,-0.37149884,60.683844,1338.6019) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2-8"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2-9"/>
+  </g>
+  <g id="g5250-9-3-4-3" transform="matrix(1,0,0,-0.37149884,60.683844,1338.6019) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2-88"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2-22"/>
+  </g>
+  <g id="g5250-9-3-4-38" transform="matrix(1,0,0,-0.37149884,60.683844,1338.6019) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2-2"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2-6"/>
+  </g>
+  <g id="g5250-9-3-4-415" transform="matrix(1,0,0,-0.37149884,154.97336,1338.5752) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3184.057591c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-8-2-29"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,3274.057591c5,-10 5,-10 5,-10" id="path5194-9-9-2-85"/>
+  </g>
+  <text font-size="21.178238px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6661" y="65.999997" x="235" xml:space="preserve">
+   <tspan y="65.999997" x="235" id="tspan6663">F</tspan>
+  </text>
+  <text font-size="21.178238px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6661-2" y="172.052647" x="196.315777" xml:space="preserve">
+   <tspan y="172.052647" x="196.315777" id="tspan6663-3">F
+    <tspan font-size="65%" id="tspan6686">s</tspan></tspan>
+  </text>
+  <text font-size="21.178238px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6661-2-1" y="172.052647" x="289.736833" xml:space="preserve">
+   <tspan y="172.052647" x="289.736833" id="tspan6663-3-2">F
+    <tspan font-size="65%" id="tspan6712">i</tspan></tspan>
+  </text>
+  <text font-size="21.178238px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6661-3" y="173.105277" x="239.210499" xml:space="preserve">
+   <tspan y="173.105277" x="239.210499" id="tspan6663-7">W</tspan>
+  </text>
+  <text font-size="40px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6735" y="28.353464" x="210" xml:space="preserve"/>
+  <text font-size="40px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6743" y="32.616341" x="207.51332" xml:space="preserve"/>
+  <text font-size="15.206779px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6751" y="40.999997" x="180" xml:space="preserve">
+   <tspan y="40.999997" x="180" id="tspan6753">Free Body Diagram</tspan>
+  </text>
+  <g id="g5250-9-31" transform="matrix(1,0,0,0.37149884,-64.33392,527.77441) ">
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,-1399.333226c0,90 0,90 0,90c-5,-10 -5,-10 -5,-10" id="path5192-2-88"/>
+   <path fill="none" stroke="#000000" stroke-width="1px" d="m145,-1309.333226c5,-10 5,-10 5,-10" id="path5194-9-0"/>
+  </g>
+  <text font-size="21.178238px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text6661-1" y="20.999997" x="65" xml:space="preserve">
+   <tspan y="20.999997" x="65" id="tspan6663-1">F</tspan>
+  </text>
+ </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="502" width="502" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="CompositeShape_1">
+   <line stroke="#000000" stroke-width="2" fill="none" y2="91.633795" stroke-linecap="round" id="StraightLine_70" x2="344.532445" y1="91.633795" x1="280.131785"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="308.678996" stroke-linecap="round" id="StraightLine_71" x2="345.392014" y1="308.678996" x1="286.705742"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="308.678996" stroke-linecap="round" id="StraightLine_72" x2="332.797411" y1="91.633795" x1="330.408315"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="110.21246" stroke-linecap="round" id="StraightLine_73" x2="321.806257" y1="91.633795" x1="330.408346"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="109.639344" stroke-linecap="round" id="StraightLine_77" x2="340.153376" y1="91.633816" x1="330.408383"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="290.673552" stroke-linecap="round" id="StraightLine_78" x2="323.05246" y1="308.678996" x1="332.797437"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="290.100278" stroke-linecap="round" id="StraightLine_79" x2="341.399437" y1="308.678996" x1="332.797332"/>
+  </g>
+  <g stroke="null" id="CompositeShape_11">
+   <line stroke="#000000" stroke-width="2" fill="none" y2="438.279946" stroke-linecap="round" id="StraightLine_54" x2="152.498058" y1="447.773915" x1="165.684053"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="458.918348" stroke-linecap="round" id="StraightLine_55" x2="153.860245" y1="447.773704" x1="165.684069"/>
+  </g>
+  <g stroke="null" id="CompositeShape_13">
+   <path stroke-width="2" stroke="null" fill-opacity="0" stroke-linecap="round" d="m169.06665,380.899994l0,-222.039429l105.965271,-67.622375l0.000092,217.440979l-105.965363,72.220825" id="Polygon_18" stroke-linejoin="round"/>
+   <path stroke-width="2" stroke="null" fill-opacity="0" stroke-linecap="round" d="m169.06665,158.860565l0,222.039429l-88.002869,0l-0.000031,-222.03949l88.002899,0.000061" id="Polygon_21" stroke-linejoin="round"/>
+   <path stroke-width="2" stroke="null" fill-opacity="0" stroke-linecap="round" d="m124.804474,129.048981l55.477417,-37.81073l94.750031,-0.000061l-105.965271,67.622375l-44.262177,-0.000061l0,-29.811523" id="Polygon_42" stroke-linejoin="round"/>
+   <path stroke-width="2" stroke="null" fill-opacity="0" stroke-linecap="round" d="m124.804474,129.048981l-43.740723,29.811523l43.740723,0l0,-29.811523" id="Polygon_41" stroke-linejoin="round"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="158.860551" stroke-linecap="round" id="StraightLine_4" x2="169.066666" y1="158.860498" x1="81.063757"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="380.899984" stroke-linecap="round" id="StraightLine_5" x2="169.066666" y1="158.860551" x1="169.066666"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="380.899984" stroke-linecap="round" id="StraightLine_6" x2="81.063794" y1="380.899984" x1="169.066666"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="158.860551" stroke-linecap="round" id="StraightLine_7" x2="81.063773" y1="380.899984" x1="81.063789"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="458.212264" stroke-linecap="round" id="StraightLine_21" x2="82.070218" y1="390.360935" x1="82.070218"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="308.679186" stroke-linecap="round" id="StraightLine_18" x2="275.031938" y1="91.238236" x1="275.032001"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="91.238236" stroke-linecap="round" id="StraightLine_15" x2="180.281908" y1="158.860498" x1="81.063757"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="458.978001" stroke-linecap="round" id="StraightLine_22" x2="167.894922" y1="391.126672" x1="167.894922"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="387.320034" stroke-linecap="round" id="StraightLine_23" x2="275.555322" y1="319.468652" x1="275.555322"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="91.238289" stroke-linecap="round" id="StraightLine_16" x2="275.032075" y1="91.238236" x1="180.281898"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="158.860551" stroke-linecap="round" id="StraightLine_17" x2="169.066629" y1="91.238236" x1="275.032075"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="448.309161" stroke-linecap="round" id="StraightLine_26" x2="167.894922" y1="447.704451" x1="82.070218"/>
+   <path stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" d="m82.070229,447.704437c-0.786644,2.372925 14.555443,-7.344482 15.874527,-8.035889" id="ConsecLine_23" stroke-linejoin="round"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="455.825916" stroke-linecap="round" id="StraightLine_51" x2="99.988507" y1="447.704398" x1="82.070276"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="366.138527" stroke-linecap="round" id="StraightLine_58" x2="275.555243" y1="446.718983" x1="169.903518"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="428.633758" stroke-linecap="round" id="StraightLine_59" x2="177.646334" y1="446.71893" x1="169.903603"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="446.718983" stroke-linecap="round" id="StraightLine_60" x2="189.576457" y1="446.718983" x1="169.903539"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="384.223751" stroke-linecap="round" id="StraightLine_69" x2="267.812532" y1="366.13858" x1="275.555322"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="370.68221" stroke-linecap="round" id="StraightLine_68" x2="256.414242" y1="366.138527" x1="275.555322"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="380.899984" stroke-linecap="round" id="StraightLine_19" x2="169.066666" y1="308.679186" x1="275.032001"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="30.624488" stroke-linecap="round" id="StraightLine_86" x2="124.804474" y1="158.860498" x1="124.804474"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="140.885477" stroke-linecap="round" id="StraightLine_87" x2="116.809358" y1="158.860498" x1="124.804474"/>
+   <line stroke="#000000" stroke-width="2" fill="none" y2="141.352752" stroke-linecap="round" id="StraightLine_88" x2="133.776858" y1="158.860446" x1="124.804427"/>
+  </g>
+  <text stroke="#000000" fill="#000000" font-size="72" font-family="Default" transform="matrix(0.24268745048569723,-0.1850963230391412,0.1850963230391412,0.24268745048569723,18.33411317177493,1070.6127179008695) " x="1661.671025" id="TextShape_0" y="-1387.396606">
+   <tspan stroke="null" text-anchor="middle" x="1866.671025" y="-1250.427906" id="TextShape_0_0">200mm</tspan>
+  </text>
+  <text stroke="#000000" transform="matrix(0.32956349837442284,0,0,0.32956349837442284,73.5422999878656,452.5705683731593) " fill="#000000" font-size="71.99813" font-family="Default" x="-46.588747" id="TextShape_3" y="-81.792249">
+   <tspan stroke="null" text-anchor="middle" x="158.411263" y="54.177251" id="TextShape_3_0">5mm</tspan>
+  </text>
+  <text stroke="#000000" transform="matrix(0,0.3376559179981093,-0.3376559179981093,0,746.7738959837483,806.2063712697629) " fill="#000000" font-size="72" font-family="Default" x="-2206.807154" id="TextShape_1" y="927.834715">
+   <tspan stroke="null" text-anchor="middle" x="-1791.807154" y="1195.303475" id="TextShape_1_0">300mm</tspan>
+  </text>
+  <text stroke="#000" transform="matrix(0.35717140991869556,0,0,0.35717140991869556,148.8920022347025,709.3508925024776) " xml:space="preserve" text-anchor="start" font-family="Default" font-size="72" id="svg_1" y="-1781.762509" x="-57.656091" stroke-width="null" fill="#000000">100N</text>
+ </g>
+</svg>

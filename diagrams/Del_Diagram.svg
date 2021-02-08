@@ -1,0 +1,45 @@
+<svg width="320" height="90" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <path fill="#000000" stroke="#000000" stroke-width="0.375177px" id="path3785" d="m191.30522,23.080137l-85.26772,0l0,38.99968l85.26772,0c33.91856,-4.1683 36.84511,-34.98335 0,-38.99968z"/>
+   <text font-size="40px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3787" y="-99.342806" x="134.99112" xml:space="preserve"/>
+   <text font-size="40px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3791" y="-104.671403" x="159.85789" xml:space="preserve"/>
+   <g transform="matrix(-0.56098118,0,0,-1.8766259,159.1294,2723.7453) " id="g3815">
+    <path fill="none" stroke="#000000" stroke-width="1px" id="path3805" d="m260.46181,1428.543205l-150,0"/>
+    <a id="a3812">
+     <path fill="none" stroke="#000000" stroke-width="1px" d="m115.46181,1423.543205l-5,5l5,5" id="path3807"/>
+    </a>
+   </g>
+   <text font-size="19.423975px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3795-7" y="60.000017" x="35" xml:space="preserve">
+    <tspan y="60.000017" x="35" id="tspan3797-9">F
+     <tspan font-size="12.625762px" id="tspan3844"/></tspan>
+   </text>
+   <text font-size="14.262424px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3892" y="29.999997" x="5" xml:space="preserve">
+    <tspan y="29.999997" x="5" id="tspan3894">Applied Force</tspan>
+   </text>
+   <text font-size="14.262424px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3892-5" y="29.999997" x="215" xml:space="preserve">
+    <tspan y="29.999997" x="215" id="tspan3894-8">Inertia Force</tspan>
+   </text>
+   <g transform="matrix(0.56098118,0,0,-1.8766259,164.13882,2723.7453) " id="g3815-2">
+    <path fill="none" stroke="#000000" stroke-width="1px" id="path3805-1" d="m260.46181,1428.543205l-150,0"/>
+    <a id="a3812-8">
+     <path fill="none" stroke="#000000" stroke-width="1px" d="m115.46181,1423.543205l-5,5l5,5" id="path3807-0"/>
+    </a>
+   </g>
+   <text font-size="19.423975px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3795-7-1" y="60.000017" x="245" xml:space="preserve">
+    <tspan y="60.000017" x="245" id="tspan3797-9-9">F
+     <tspan font-size="65.00091553%" id="tspan3972">i</tspan></tspan>
+   </text>
+   <text font-size="14.262424px" font-style="normal" font-weight="normal" fill="#000000" font-family="Sans" id="text3892-6" y="80.000017" x="120" xml:space="preserve">
+    <tspan y="80.000017" x="120" id="tspan3894-6">Mass (M)</tspan>
+   </text>
+  </g>
+ </g>
+</svg>

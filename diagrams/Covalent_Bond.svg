@@ -1,0 +1,29 @@
+<svg width="580" height="340" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient id="svg_3" x1="0" y1="0" x2="1" y2="0">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#000000" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="582" height="342" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_7" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="url(#svg_3)" stroke-width="1.5" cx="396.738067" cy="168.412521" id="svg_1" rx="124.908337" ry="125.473534" stroke-dasharray="2,2" fill-opacity="0" stroke="#000"/>
+  <ellipse fill="url(#svg_3)" stroke-width="1.5" cx="197.237627" cy="168.977717" id="svg_2" rx="124.908337" ry="125.473534" fill-opacity="0" stroke="#000" stroke-dasharray="2,2"/>
+  <ellipse fill="#ffffff" stroke-width="1.5" stroke-opacity="null" cx="398.912607" cy="168.977717" id="svg_4" rx="19.56181" ry="19.56181" stroke="#000"/>
+  <ellipse fill="#ffffff" stroke-width="1.5" stroke-opacity="null" cx="297.425076" cy="244.156275" id="svg_5" rx="19.781863" ry="19.781863" stroke="#000"/>
+  <ellipse fill="#ffffff" stroke-width="1.5" stroke-opacity="null" cx="298.004001" cy="92.088308" id="svg_9" rx="19.56181" ry="19.56181" stroke="#000"/>
+  <ellipse fill="#ffffff" stroke-width="1.5" stroke-opacity="null" cx="197.789041" cy="168.977717" id="svg_10" rx="19.56181" ry="19.56181" stroke="#000"/>
+  <path fill="url(#svg_3)" stroke-width="1.5" stroke-opacity="null" fill-opacity="0" d="m390.76796,167.21686l5.4671,0l0,-5.4671l5.6082,0l0,5.4671l5.4671,0l0,5.60821l-5.4671,0l0,5.4671l-5.6082,0l0,-5.4671l-5.4671,0l0,-5.60821z" id="svg_11" stroke="#000"/>
+  <path fill="url(#svg_3)" stroke-width="1.5" stroke-opacity="null" fill-opacity="0" d="m189.50216,167.21686l5.4671,0l0,-5.4671l5.6082,0l0,5.4671l5.4671,0l0,5.60821l-5.4671,0l0,5.4671l-5.6082,0l0,-5.4671l-5.4671,0l0,-5.60821z" id="svg_12" stroke="#000"/>
+  <line fill="none" stroke-width="1.5" stroke-opacity="null" x1="290.123891" y1="242.81289" x2="306.675473" y2="242.81289" id="svg_14" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
+  <line fill="none" stroke-width="1.5" stroke-opacity="null" x1="289.021064" y1="91.725687" x2="305.572646" y2="91.725687" id="svg_6" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
+ </g>
+</svg>

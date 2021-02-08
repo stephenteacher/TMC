@@ -1,0 +1,24 @@
+<svg width="350" height="200.00000000000003" xmlns="http://www.w3.org/2000/svg">
+ <filter id="blur">
+  <feGaussianBlur stdDeviation="5"/>
+ </filter>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="202" width="352" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_13">
+   <text stroke="null" id="svg_4" fill="#000000" font-size="84" font-family="sans-serif" y="-607.383417" x="204.931163" transform="matrix(0.3376261293888092,0,0,0.3376261293888092,210.38397384817222,379.8983695145032) ">B</text>
+   <text stroke="null" id="svg_5" fill="#000000" font-size="84" font-family="sans-serif" y="-1136.117772" x="-268.676547" transform="matrix(0.3376261293888092,0,0,0.3376261293888092,256.54260102905045,427.5067447255398) ">C</text>
+   <text stroke="null" id="svg_6" fill="#000000" font-size="84" font-family="sans-serif" y="-911.847542" x="-388.862359" transform="matrix(0.3376261293888092,0,0,0.3376261293888092,380.8954316733498,394.64251744046214) ">a</text>
+   <text stroke="null" id="svg_7" fill="#000000" font-size="84" font-family="sans-serif" y="-867.767205" x="-428.250048" transform="matrix(0.3376261293888092,0,0,0.3376261293888092,212.93302647835029,376.7979541703438) ">b</text>
+   <text stroke="null" id="svg_8" fill="#000000" font-size="84" font-family="sans-serif" y="-479.435372" x="-129.512587" transform="matrix(0.3376261293888092,0,0,0.3376261293888092,201.91004046825202,358.88456378799276) ">c</text>
+   <text stroke="null" id="svg_9" fill="#000000" font-size="84" font-family="sans-serif" y="-456.17067" x="-540.886966" transform="matrix(0.3376261293888092,0,0,0.3376261293888092,216.30880361636883,319.47503836694773) ">A</text>
+   <line stroke="#000000" stroke-linecap="round" stroke-linejoin="round" id="svg_10" y2="12.667515" x2="175.686605" y1="168.554149" x1="9.284983" fill-opacity="null" fill="none"/>
+   <line stroke="#000000" stroke-linecap="round" stroke-linejoin="round" id="svg_11" y2="180.516108" x2="323.759931" y1="12.570877" x1="175.204281" fill-opacity="null" fill="none"/>
+   <line stroke="#000000" stroke-linecap="round" stroke-linejoin="round" id="svg_12" y2="168.458019" x2="9.767308" y1="180.516108" x1="323.856208" fill-opacity="null" fill="none"/>
+  </g>
+ </g>
+</svg>

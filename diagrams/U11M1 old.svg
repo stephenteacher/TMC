@@ -1,0 +1,40 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt; stroke="rgb(0,0,0)" stroke-width="0.3" stroke-linejoin="miter" /&gt;
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="202" width="302" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polyline id="svg_1" fill="none" stroke="rgb(0,0,0)" points="13.399956703186035,150.04878143412316 65.5134801864624,45.82173446757042 117.62702354947032,150.04878143412316 13.399956703186035,150.04878143412316 "/>
+  <polyline id="svg_2" fill="none" stroke="rgb(0,0,0)" points="65.51345036686507,45.82179410676508 221.8539711173653,150.0488013138547 117.62698379000722,150.0488013138547 "/>
+  <polyline id="svg_3" fill="none" stroke="rgb(0,0,0)" points="13.399956703186035,181.31708438153873 13.399956703186035,181.31708438153873 13.399956703186035,150.0489702915729 23.82266139984131,160.4716749882282 "/>
+  <polyline id="svg_4" fill="none" stroke="rgb(0,0,0)" points="2.9772520065307617,160.47155570983887 13.399956703186035,150.0488510131836 "/>
+  <polyline id="svg_5" fill="none" stroke="rgb(0,0,0)" points="221.8540108768284,181.31708438153873 221.8540108768284,150.0489702915729 "/>
+  <polyline id="svg_6" fill="none" stroke="rgb(0,0,0)" points="211.43130618017312,160.47155570983887 221.8540108768284,150.0488510131836 "/>
+  <polyline id="svg_7" fill="none" stroke="rgb(0,0,0)" points="232.27671557348367,160.47155570983887 221.8540108768284,150.0488510131836 "/>
+  <polyline id="svg_8" fill="none" stroke="rgb(0,0,0)" points="65.51345036686507,14.553689956665039 65.51345036686507,45.82180404663086 "/>
+  <polyline id="svg_9" fill="none" stroke="rgb(0,0,0)" points="55.0907456702098,35.39908941010981 65.51345036686507,45.82179410676508 "/>
+  <polyline id="svg_10" fill="none" stroke="rgb(0,0,0)" points="75.93618488311768,35.39908941010981 65.5134801864624,45.82179410676508 "/>
+  <g id="svg_11">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_12" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="3.802981" x="9.146521">40N</text>
+  </g>
+  <g id="svg_13">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_14" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="19.500011" x="3.5">R1</text>
+  </g>
+  <g id="svg_15">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_16" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="19.500011" x="23.499996">R2</text>
+  </g>
+  <g id="svg_17">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_18" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="10.555467" x="3.459444">F1</text>
+  </g>
+  <g id="svg_19">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_20" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="9.293042" x="14.949503">F2</text>
+  </g>
+  <g id="svg_21">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_22" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="12.903976" x="12.298012">F3</text>
+  </g>
+  <g id="svg_23">
+   <text transform="matrix(10.4227, 0, 0, 10.4227, -23.0795, -11.5031)" id="svg_24" fill="rgb(0,0,0)" text-anchor="start" font-size="2.5px" y="17.550497" x="9.192048">F4</text>
+  </g>
+ </g></svg>
