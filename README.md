@@ -1,6 +1,7 @@
-# STAR
-Stephen Teacher Academic Resources
+# TMC
 
 All my tiddlywikis for education so they don't keep getting lost
 (I keep forgetting where I put them)
-Mostly engineering related. 
+Mostly engineering related.
+
+I'll update this shortly with links.
