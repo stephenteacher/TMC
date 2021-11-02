@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="79.475914"
-   height="155.16727"
+   width="26.25"
+   height="71"
    stroke="#000000"
    version="1.1"
-   id="svg866"
+   id="svg1030"
    sodipodi:docname="H11.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -12,9 +12,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs870" />
+     id="defs1034" />
   <sodipodi:namedview
-     id="namedview868"
+     id="namedview1032"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -22,44 +22,43 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.34598361"
-     inkscape:cx="-738.47429"
-     inkscape:cy="226.88936"
+     inkscape:zoom="0.90554156"
+     inkscape:cx="438.96384"
+     inkscape:cy="168.40751"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg866" />
+     inkscape:current-layer="svg1030" />
   <path
      fill="#ffffff"
-     d="M 1.892285,1.892285 H 77.58363 V 153.27498 H 1.892285 Z"
-     id="path848"
-     style="stroke-width:3.78457" />
+     d="m 0.5,0.5 h 25.25 v 70 H 0.5 Z"
+     id="path1012" />
   <g
      fill="none"
-     id="g864"
-     transform="matrix(3.7845673,0,0,3.7845673,-488.20918,-980.20293)">
+     id="g1028"
+     transform="translate(-122.8125,-229)">
     <path
-       d="m 129.5303,261.75 2.3182,-2.25"
-       id="path850" />
+       d="M 123.3508,233.4375 126.2775,229.5"
+       id="path1014" />
     <path
-       d="m 129.5,264.5 5,-5"
-       id="path852" />
+       d="m 123.3125,238.25 6.3125,-8.75"
+       id="path1016" />
     <path
-       d="m 129.5,267 7.5,-7.5"
-       id="path854" />
+       d="M 123.3125,242.625 132.7813,229.5"
+       id="path1018" />
     <path
-       d="M 129.5,272 142,259.5"
-       id="path856" />
+       d="M 123.3125,251.375 139.0938,229.5"
+       id="path1020" />
     <path
-       d="m 129.5,269.5 10,-10"
-       id="path858" />
+       d="m 123.3125,247 12.625,-17.5"
+       id="path1022" />
     <path
-       d="m 129.5,274.5 15,-15"
-       id="path860" />
+       d="M 123.3125,255.75 142.25,229.5"
+       id="path1024" />
     <path
-       d="M 129.5,277 147,259.5 m -17.5,22.5 20,-20 m -20,17.5 20,-20 m -20,25 20,-20 m -20,22.5 20,-20 m -20,25 20,-20 m -20,17.5 20,-20 m -20,25 20,-20 m -20,22.75 20,-20 M 130,299.5 149.5,280 m -16.5,19.25 16.5,-16.5 m -13.75,16.75 13.75,-13.75 m -11,13.75 11,-11 m -8.5,11 8.5,-8.5 m -5.5,8.5 5.5,-5.5 m -2.75,5.5 2.75,-2.75"
-       id="path862" />
+       d="M 123.3125,260.125 145.4062,229.5 m -22.0937,39.375 25.25,-35 m -25.25,30.625 25.25,-35 m -25.25,43.75 25.25,-35 m -25.25,39.375 25.25,-35 m -25.25,43.75 25.25,-35 m -25.25,30.625 25.25,-35 m -25.25,43.75 25.25,-35 m -25.25,39.8125 25.25,-35 M 123.9438,299.5 148.5625,265.375 m -20.8313,33.6875 20.8313,-28.875 M 131.2031,299.5 148.5625,275.4375 M 134.675,299.5 148.5625,280.25 m -10.7312,19.25 10.7312,-14.875 m -6.9438,14.875 6.9437,-9.625 m -3.4718,9.625 3.4719,-4.8125"
+       id="path1026" />
   </g>
 </svg>
