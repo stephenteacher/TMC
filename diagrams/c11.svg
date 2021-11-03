@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="26.25"
-   height="71"
+   width="26.45289"
+   height="86.094925"
    stroke="#000000"
    version="1.1"
    id="svg1123"
@@ -22,21 +22,40 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="10.245033"
-     inkscape:cx="21.717841"
-     inkscape:cy="43.874919"
+     inkscape:zoom="5.1225166"
+     inkscape:cx="61.200387"
+     inkscape:cy="57.491273"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-3"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1123" />
+     inkscape:current-layer="svg1123">
+    <sodipodi:guide
+       position="0,86.094925"
+       orientation="0,26.45289"
+       id="guide1293" />
+    <sodipodi:guide
+       position="26.45289,86.094925"
+       orientation="86.094925,0"
+       id="guide1295" />
+    <sodipodi:guide
+       position="26.45289,0"
+       orientation="0,-26.45289"
+       id="guide1297" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-86.094925,0"
+       id="guide1299" />
+  </sodipodi:namedview>
   <path
      fill="#ffffff"
-     d="M 0.45450528,20.290243 H 25.704505 v 50 H 0.45450528 Z"
-     id="path927" />
+     d="M 0.01398322,36.094925 H 26.710894 v 50 H 0.01398322 Z"
+     id="path927"
+     style="stroke-width:1.02825" />
   <path
-     d="m 25.704505,22.165243 -1.3527,-1.875 m 1.3527,10.625 -7.25,-10.0495 m 7.25,18.7995 -14,-19.4059 m 14,28.1559 -20.2901997,-28.125 m 20.2901997,36.875 -25.24999972,-35 m 25.24999972,44.1875 -25.24999972,-35 m 20.83129972,38.5 -20.83129972,-28.875 m 13.88749972,29.3125 -13.88749972,-19.25 m 6.94370002,19.25 -6.94370002,-9.625"
+     d="M 26.45289,37.769531 25.022676,35.888624 M 26.45289,46.547092 18.78744,36.465937 M 26.45289,55.324654 11.650642,35.857627 M 26.45289,64.102216 4.9999928,35.888624 M 26.45289,72.879778 -0.24402068,37.769531 M 26.45289,82.096218 -0.24402068,46.985971 M 21.780983,85.607242 -0.24402068,56.641288 M 14.43928,86.046121 -0.24402068,66.735485 M 7.0975771,86.046121 -0.24402068,76.390803"
      fill="none"
-     id="path929" />
+     id="path929"
+     style="stroke-width:1.02988" />
 </svg>
