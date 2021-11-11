@@ -22,23 +22,41 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="14.488665"
-     inkscape:cx="10.525469"
-     inkscape:cy="52.489308"
+     inkscape:zoom="10.245033"
+     inkscape:cx="8.3455073"
+     inkscape:cy="69.253069"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="1072"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1123" />
+     inkscape:current-layer="svg1123">
+    <sodipodi:guide
+       position="0,71"
+       orientation="0,26.25"
+       id="guide1187" />
+    <sodipodi:guide
+       position="26.25,71"
+       orientation="71,0"
+       id="guide1189" />
+    <sodipodi:guide
+       position="26.25,0"
+       orientation="0,-26.25"
+       id="guide1191" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-71,0"
+       id="guide1193" />
+  </sodipodi:namedview>
   <path
      fill="#ffffff"
-     d="M 0.59254511,53.362359 H 25.842545 v 17.5 H 0.59254511 Z"
-     id="path1451" />
+     d="M -1.1590547e-4,53.5 H 26.25 V 71 H -1.1590547e-4 Z"
+     id="path1451"
+     style="stroke-width:1.01962" />
   <g
      fill="none"
      id="g1457"
-     transform="translate(-318.40745,-228.63764)">
+     transform="matrix(1.0396085,0,0,1,-331.63524,-228.5)">
     <path
        d="M 319,286.375 322.1562,282"
        id="path1453" />
