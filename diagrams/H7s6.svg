@@ -5,7 +5,7 @@
    stroke="#000000"
    version="1.1"
    id="svg1123"
-   sodipodi:docname="H7k6.svg"
+   sodipodi:docname="H7s6.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -47,6 +47,22 @@
        position="0.50992588,0.50980902"
        orientation="-71,0"
        id="guide1193" />
+    <sodipodi:guide
+       position="0,18.519619"
+       orientation="0,52.509926"
+       id="guide1046" />
+    <sodipodi:guide
+       position="52.509926,18.519619"
+       orientation="18.519619,0"
+       id="guide1048" />
+    <sodipodi:guide
+       position="52.509926,0"
+       orientation="0,-52.509926"
+       id="guide1050" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-18.519619,0"
+       id="guide1052" />
   </sodipodi:namedview>
   <path
      fill="#ffffff"
@@ -65,20 +81,22 @@
        id="path1455" />
   </g>
   <g
-     id="g1547"
-     transform="translate(3.2698541,-41.52855)">
-    <g
-       stroke="#000000"
-       id="g1449"
-       transform="translate(-94.009938,-148.80504)">
-      <path
-         fill="#ffffff"
-         d="m 117.5,203.5309 h 25.25 V 207.5 H 117.5 Z"
-         id="path1445" />
-      <path
-         d="M 119.0107,207.5 117.5,205.4059 m 25.25,0 -1.3527,-1.875 M 137.9482,207.5 135.5,204.1064 m -3.8643,3.3936 -2.8857,-4 m -3.4268,4 -2.8634,-3.9691"
-         fill="none"
-         id="path1447" />
-    </g>
+     id="g1029"
+     transform="matrix(0.97707692,0,0,1,-7.9551562,2.7705543)">
+    <path
+       d="m 61.883646,-11.752636 -1.411856,-1.875"
+       fill="none"
+       id="path2046"
+       style="stroke-width:1.02163" />
+    <path
+       fill="#ffffff"
+       d="m 35.529412,-13.627636 h 26.354234 v 7.5384003 H 35.529412 Z"
+       id="path2048"
+       style="stroke-width:1.02163" />
+    <path
+       d="m 59.559463,-6.0892357 -5.242874,-6.9629003 m -1.565598,6.6708003 -5.479594,-7.2772003 m -1.265525,7.0693003 -5.299758,-7.0384003 m -0.912326,7.5384003 -4.264376,-5.6634003"
+       fill="none"
+       id="path2050"
+       style="stroke-width:1.02163" />
   </g>
 </svg>
