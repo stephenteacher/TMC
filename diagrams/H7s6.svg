@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="52.509926"
-   height="18.519619"
+   width="53.009033"
+   height="29.887516"
    stroke="#000000"
    version="1.1"
    id="svg1123"
@@ -24,7 +24,7 @@
      showgrid="false"
      inkscape:zoom="10.245033"
      inkscape:cx="8.8335489"
-     inkscape:cy="0.63445379"
+     inkscape:cy="11.957014"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -40,15 +40,15 @@
        orientation="71,0"
        id="guide1189" />
     <sodipodi:guide
-       position="26.759926,0.50980902"
+       position="26.759926,0.50980933"
        orientation="0,-26.25"
        id="guide1191" />
     <sodipodi:guide
-       position="0.50992588,0.50980902"
+       position="0.50992588,0.50980933"
        orientation="-71,0"
        id="guide1193" />
     <sodipodi:guide
-       position="0,18.519619"
+       position="8.5571297e-10,18.519619"
        orientation="0,52.509926"
        id="guide1046" />
     <sodipodi:guide
@@ -56,23 +56,23 @@
        orientation="18.519619,0"
        id="guide1048" />
     <sodipodi:guide
-       position="52.509926,0"
+       position="52.509926,3.0931549e-07"
        orientation="0,-52.509926"
        id="guide1050" />
     <sodipodi:guide
-       position="0,0"
+       position="8.5571297e-10,3.0931549e-07"
        orientation="-18.519619,0"
        id="guide1052" />
   </sodipodi:namedview>
   <path
      fill="#ffffff"
-     d="M 0.50980997,0.50980997 H 26.759926 V 18.00981 H 0.50980997 Z"
+     d="M 0.50980997,11.877707 H 26.759926 v 17.5 H 0.50980997 Z"
      id="path1451"
      style="stroke-width:1.01962" />
   <g
      fill="none"
      id="g1457"
-     transform="matrix(1.0396085,0,0,1,-331.12531,-281.49019)">
+     transform="matrix(1.0396085,0,0,1,-331.12531,-270.12229)">
     <path
        d="M 319,286.375 322.1562,282"
        id="path1453" />
@@ -82,7 +82,7 @@
   </g>
   <g
      id="g1029"
-     transform="matrix(0.97707692,0,0,1,-7.9551562,2.7705543)">
+     transform="matrix(0.97707692,0,0,1,-7.9551562,14.138451)">
     <path
        d="m 61.883646,-11.752636 -1.411856,-1.875"
        fill="none"
