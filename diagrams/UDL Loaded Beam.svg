@@ -25,13 +25,13 @@
      showgrid="false"
      inkscape:zoom="2.0938813"
      inkscape:cx="385.64746"
-     inkscape:cy="-55.399512"
+     inkscape:cy="-55.399511"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-1088"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g181" />
   <defs
      id="defs2">
     <clipPath
@@ -52,6 +52,15 @@
          height="53"
          id="rect154" />
     </clipPath>
+    <clipPath
+       id="clip0-6">
+      <rect
+         x="302"
+         y="339"
+         width="225"
+         height="53"
+         id="rect119" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -62,87 +71,92 @@
        clip-path="url(#clip0-4)"
        transform="matrix(0.26458333,0,0,0.26458333,-73.626953,18.778986)"
        id="g181">
-      <rect
-         x="391"
-         y="362"
-         width="50"
-         height="30"
-         fill="#ffffff"
-         id="rect159" />
-      <text
-         font-family="Verdana, Verdana_MSFontService, sans-serif"
-         font-weight="400"
-         font-size="13px"
-         transform="translate(400.287,380)"
-         id="text161">10m</text>
-      <rect
-         x="408"
-         y="339"
-         width="68"
-         height="32"
-         fill="#ffffff"
-         id="rect163" />
-      <text
-         font-family="Verdana, Verdana_MSFontService, sans-serif"
-         font-weight="400"
-         font-size="13px"
-         transform="translate(417.629,357)"
-         id="text165">5kN/m</text>
-      <path
-         d="M 303.5,359.5 H 523.433"
-         stroke="#5b9bd5"
-         stroke-width="0.666667"
-         stroke-miterlimit="8"
-         fill="none"
-         fill-rule="evenodd"
-         id="path167" />
-      <path
-         d="m 309.5,365.5 2,-4 2,4 z"
-         stroke="#41719c"
-         stroke-width="1.33333"
-         stroke-miterlimit="8"
-         fill="#5b9bd5"
-         fill-rule="evenodd"
-         id="path169" />
-      <path
-         d="m 516.5,365.5 2,-4 2,4 z"
-         stroke="#41719c"
-         stroke-width="1.33333"
-         stroke-miterlimit="8"
-         fill="#5b9bd5"
-         fill-rule="evenodd"
-         id="path171" />
-      <path
-         d="m 310.5,367.5 v 21.212"
-         stroke="#5b9bd5"
-         stroke-width="0.666667"
-         stroke-miterlimit="8"
-         fill="none"
-         fill-rule="evenodd"
-         id="path173" />
-      <path
-         d="m 518.5,368.5 v 21.212"
-         stroke="#5b9bd5"
-         stroke-width="0.666667"
-         stroke-miterlimit="8"
-         fill="none"
-         fill-rule="evenodd"
-         id="path175" />
-      <path
-         d="m 317.167,383.167 h 194.274 v 0.666 H 317.167 Z m 1.333,4.333 -8,-4 8,-4 z m 191.607,-8 8,4 -8,4 z"
-         fill="#5b9bd5"
-         id="path177" />
-      <rect
-         x="310.5"
-         y="344.5"
-         width="208"
-         height="15"
-         stroke="#41719c"
-         stroke-width="1.33333"
-         stroke-miterlimit="8"
-         fill="#5b9bd5"
-         fill-opacity="0.341176"
-         id="rect179" />
+      <g
+         clip-path="url(#clip0-6)"
+         transform="translate(-1.0778045,0.7221559)"
+         id="g146">
+        <rect
+           x="391"
+           y="362"
+           width="50"
+           height="30"
+           fill="#ffffff"
+           id="rect124" />
+        <text
+           font-family="Verdana, Verdana_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="13px"
+           transform="translate(400.287,380)"
+           id="text126">12m</text>
+        <rect
+           x="408"
+           y="339"
+           width="68"
+           height="32"
+           fill="#ffffff"
+           id="rect128" />
+        <text
+           font-family="Verdana, Verdana_MSFontService, sans-serif"
+           font-weight="400"
+           font-size="13px"
+           transform="translate(417.629,357)"
+           id="text130">6kN/m</text>
+        <path
+           d="M 303.5,359.5 H 523.433"
+           stroke="#5b9bd5"
+           stroke-width="0.666667"
+           stroke-miterlimit="8"
+           fill="none"
+           fill-rule="evenodd"
+           id="path132" />
+        <path
+           d="m 309.5,365.5 2,-4 2,4 z"
+           stroke="#41719c"
+           stroke-width="1.33333"
+           stroke-miterlimit="8"
+           fill="#5b9bd5"
+           fill-rule="evenodd"
+           id="path134" />
+        <path
+           d="m 516.5,365.5 2,-4 2,4 z"
+           stroke="#41719c"
+           stroke-width="1.33333"
+           stroke-miterlimit="8"
+           fill="#5b9bd5"
+           fill-rule="evenodd"
+           id="path136" />
+        <path
+           d="m 310.5,367.5 v 21.212"
+           stroke="#5b9bd5"
+           stroke-width="0.666667"
+           stroke-miterlimit="8"
+           fill="none"
+           fill-rule="evenodd"
+           id="path138" />
+        <path
+           d="m 518.5,368.5 v 21.212"
+           stroke="#5b9bd5"
+           stroke-width="0.666667"
+           stroke-miterlimit="8"
+           fill="none"
+           fill-rule="evenodd"
+           id="path140" />
+        <path
+           d="m 317.167,383.167 h 194.274 v 0.666 H 317.167 Z m 1.333,4.333 -8,-4 8,-4 z m 191.607,-8 8,4 -8,4 z"
+           fill="#5b9bd5"
+           id="path142" />
+        <rect
+           x="310.5"
+           y="344.5"
+           width="208"
+           height="15"
+           stroke="#41719c"
+           stroke-width="1.33333"
+           stroke-miterlimit="8"
+           fill="#5b9bd5"
+           fill-opacity="0.341176"
+           id="rect144" />
+      </g>
     </g>
   </g>
 </svg>
