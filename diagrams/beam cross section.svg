@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="27.516666mm"
+   height="11.1125mm"
+   viewBox="0 0 27.516666 11.1125"
+   version="1.1"
+   id="svg308"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="beam cross section.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview310"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="137.1068"
+     inkscape:cy="98.608829"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs305">
+    <clipPath
+       id="clip0">
+      <rect
+         x="300"
+         y="138"
+         width="104"
+         height="42"
+         id="rect312" />
+    </clipPath>
+    <image
+       width="64"
+       height="64"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABAAEADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpaKKK/az8cP0uor80a/S6vy/Mst/s/k9/m5r9LbW833P0rLsx+v8AP7nLy2633v5LsFFFFeIeyFfmjX6XUV7eW5l/Z/P7nNzW622v5PueNmOXfX+T3+Xlv0vvbzXYK/NGv0uooy3Mv7P5/c5ua3W21/J9wzHLvr/J7/Ly36X3t5rsfmjRRRX6gfmp+l1FfmjX6XV+X5llv9n8nv8ANzX6W2t5vufpWXZj9f5/c5eW3W+9/JdgooorxD2QooooAK/NGv0uor28tzL+z+f3Obmt1ttfyfc8bMcu+v8AJ7/Ly36X3t5rsfmjRRRX6gfmp+l1FfmjX6XV+X5llv8AZ/J7/NzX6W2t5vufpWXZj9f5/c5eW3W+9/Jdgor80a/S6jMst/s/k9/m5r9LbW833DLsx+v8/ucvLbrfe/kuwUUUV4h7IV+aNfpdRXt5bmX9n8/uc3Nbrba/k+542Y5d9f5Pf5eW/S+9vNdj80aKKK/UD81P/9k="
+       preserveAspectRatio="none"
+       id="img1" />
+    <pattern
+       width="64"
+       height="64"
+       patternUnits="userSpaceOnUse"
+       id="pattern2"
+       overflow="hidden"
+       patternTransform="matrix(0.125 0 0 0.125 296 136)">
+      <use
+         width="100%"
+         height="100%"
+         xlink:href="#img1"
+         id="use316" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.443833,-122.75061)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.931166,86.23811)"
+       id="g331">
+      <rect
+         x="351"
+         y="140"
+         width="53"
+         height="20"
+         fill="#ffffff"
+         id="rect321" />
+      <text
+         font-family="Verdana, Verdana_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="8px"
+         transform="translate(360.733,152)"
+         id="text323">100mm</text>
+      <rect
+         x="302"
+         y="157"
+         width="53"
+         height="23"
+         fill="#ffffff"
+         id="rect325" />
+      <text
+         font-family="Verdana, Verdana_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="8px"
+         transform="translate(311.738,170)"
+         id="text327">300mm</text>
+      <rect
+         x="300.5"
+         y="138.5"
+         width="55"
+         height="22"
+         stroke="#41719c"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="url(#pattern2)"
+         id="rect329" />
+    </g>
+  </g>
+</svg>
