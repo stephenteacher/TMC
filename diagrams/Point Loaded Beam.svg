@@ -29,7 +29,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-1088"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -43,6 +43,15 @@
          height="84"
          id="rect9" />
     </clipPath>
+    <clipPath
+       id="clip0-1">
+      <rect
+         x="301"
+         y="235"
+         width="223"
+         height="85"
+         id="rect597" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -50,83 +59,83 @@
      id="layer1"
      transform="translate(-29.451379,-90.338506)">
     <g
-       clip-path="url(#clip0)"
-       transform="matrix(0.26458333,0,0,0.26458333,-50.849662,27.89684)"
-       id="g36">
+       clip-path="url(#clip0-1)"
+       transform="matrix(0.26458333,0,0,0.26458333,-50.740888,28.036333)"
+       id="g624">
       <rect
-         x="386"
+         x="385"
          y="286"
-         width="50"
+         width="64"
          height="34"
          fill="#ffffff"
-         id="rect14" />
+         id="rect602" />
       <text
          font-family="Verdana, Verdana_MSFontService, sans-serif"
          font-weight="400"
          font-size="13px"
-         transform="translate(395.44,304)"
-         id="text16">10m</text>
+         transform="translate(394.952,304)"
+         id="text604">12m</text>
       <rect
          x="403"
-         y="236"
-         width="76"
-         height="26"
+         y="235"
+         width="75"
+         height="27"
          fill="#ffffff"
-         id="rect18" />
+         id="rect606" />
       <text
          font-family="Verdana, Verdana_MSFontService, sans-serif"
          font-weight="400"
          font-size="13px"
-         transform="translate(412.775,253)"
-         id="text20">20kN</text>
+         transform="translate(412.308,253)"
+         id="text608">20kN</text>
       <path
-         d="m 303.5,284.5 h 218"
+         d="m 302.5,283.5 h 218"
          stroke="#5b9bd5"
          stroke-width="0.666667"
          stroke-miterlimit="8"
          fill="none"
          fill-rule="evenodd"
-         id="path22" />
+         id="path610" />
       <path
-         d="m 308.5,289.5 2.5,-4 2.5,4 z"
+         d="m 308.5,289.5 2,-4 2,4 z"
          stroke="#41719c"
          stroke-width="1.33333"
          stroke-miterlimit="8"
          fill="#5b9bd5"
          fill-rule="evenodd"
-         id="path24" />
+         id="path612" />
       <path
-         d="m 514.5,289.5 2,-4 2,4 z"
+         d="m 513.5,289.5 2,-4 2,4 z"
          stroke="#41719c"
          stroke-width="1.33333"
          stroke-miterlimit="8"
          fill="#5b9bd5"
          fill-rule="evenodd"
-         id="path26" />
+         id="path614" />
       <path
-         d="m 407.833,243.5 v 34.457 h -0.666 V 243.5 Z m 3.667,33.124 -4,8 -4,-8 z"
+         d="m 407.833,243.5 v 34.47 h -0.666 V 243.5 Z m 3.667,33.136 -4,8 -4,-8 z"
          fill="#5b9bd5"
-         id="path28" />
+         id="path616" />
       <path
-         d="m 310.5,292.5 v 21.215"
+         d="m 309.5,292.5 v 21.221"
          stroke="#5b9bd5"
          stroke-width="0.666667"
          stroke-miterlimit="8"
          fill="none"
          fill-rule="evenodd"
-         id="path30" />
+         id="path618" />
       <path
-         d="m 516.5,292.5 v 21.215"
+         d="m 515.5,292.5 v 21.221"
          stroke="#5b9bd5"
          stroke-width="0.666667"
          stroke-miterlimit="8"
          fill="none"
          fill-rule="evenodd"
-         id="path32" />
+         id="path620" />
       <path
-         d="m 317.167,308.167 h 192.449 v 0.666 H 317.167 Z m 1.333,4.333 -8,-4 8,-4 z m 189.782,-8 8,4 -8,4 z"
+         d="m 316.167,308.167 h 192.449 v 0.666 H 316.167 Z m 1.333,4.333 -8,-4 8,-4 z m 189.782,-8 8,4 -8,4 z"
          fill="#5b9bd5"
-         id="path34" />
+         id="path622" />
     </g>
   </g>
 </svg>
