@@ -1,12 +1,13 @@
 # Engineering Education Resources
 
-Welcome to my wikis for the BTEC Level Three in Engineering,  The main body of information is in the Engineering Text book.  The others being smaller self-contained pages.<br>
+Welcome to a collection of resources for Engineering Education.
+There are collections of files and links for BTEC level two and three and a hyperlinked textbook covering a range of engineering principles suitable for FE <br>
+
+[Engineering Text Book](https://tmc.stephenteacher.com/txtbook.html)<br>
 
 [Engineering Resources Level Three](https://www.pearltrees.com/t/fe-btec-engineering/id18194064)<br>
 
 [Engineering Resources Level Two](https://www.pearltrees.com/t/level-two-btec-firsts/id32899932)<br>
-
-[Engineering Text Book](https://tmc.stephenteacher.com/txtbook.html)<br>
 
 [Onshape Mouse Tutorial](https://tmc.stephenteacher.com/Onshape%20Mouse%20Tutorial.html)
 
