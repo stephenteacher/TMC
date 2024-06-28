@@ -17,4 +17,4 @@ There are collections of files and links for BTEC level two and three and a hype
 
 [Calculator for the forces on a joint of a simple frame](https://tmc.stephenteacher.com/Simple%20Frame%20Calc.html)
 
-[T-Level Specs and HWH Calender](https://t-level2ndyear.tiddlyhost.com/).
+[T-Level Specs and HWH Calendar](https://t-level2ndyear.tiddlyhost.com/).
